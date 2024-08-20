@@ -1,6 +1,6 @@
 import sys
 
-N = int(input())
+N = int(sys.stdin.readline())
 
 stk = [] # 메인 스택
 result = [] # 결과 +- 들어감
@@ -9,7 +9,7 @@ stop = False
 tmp = 1 #시작하는 수
 
 for _ in range(N):
-    num = int(input())
+    num = int(sys.stdin.readline())
     while tmp <= num: # 찾고 있던 숫자 나오기 전까지 push (+)
         stk.append(tmp)
         result.append('+')
