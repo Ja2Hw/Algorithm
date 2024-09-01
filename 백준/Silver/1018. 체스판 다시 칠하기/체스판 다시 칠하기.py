@@ -1,3 +1,4 @@
+# 체스판 다시 칠하기
 import sys
 N, M = map(int, sys.stdin.readline().split())
 Board = [sys.stdin.readline() for _ in range(N)]
