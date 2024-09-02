@@ -1,3 +1,4 @@
+#나이순 정렬
 import sys
 
 N = int(sys.stdin.readline())
