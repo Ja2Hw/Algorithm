@@ -1,4 +1,5 @@
 #pypy3로 해야 되고 python3면 시간 초과임...
+# deque의 함수인 rotate를 참고해보자!
 
 import sys
 from collections import deque
