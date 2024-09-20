@@ -1,3 +1,5 @@
+#단어 정렬
+
 n = int(input())
 input_list = []
 tmp = []
