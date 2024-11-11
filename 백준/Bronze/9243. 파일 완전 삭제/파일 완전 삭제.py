@@ -14,5 +14,7 @@ else:
         if before[i]==after[i]:
             print("Deletion failed")
             break
-    else:
+    # for와 같은 레벨에 있는 else문은 반복문 else이다.
+    # for문이 중간에 break로 중단되지 않고 끝까지 모든 반복이 실행된 경우에만 else 블록이 실행된다!
+    else: 
         print("Deletion succeeded")
