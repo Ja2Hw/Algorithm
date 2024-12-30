@@ -1,0 +1,16 @@
+import sys
+
+a = int(sys.stdin.readline())
+b = int(sys.stdin.readline())
+c = int(sys.stdin.readline())
+abc = str(a*b*c)
+print(abc.count('0'))
+print(abc.count('1'))
+print(abc.count('2'))
+print(abc.count('3'))
+print(abc.count('4'))
+print(abc.count('5'))
+print(abc.count('6'))
+print(abc.count('7'))
+print(abc.count('8'))
+print(abc.count('9'))
