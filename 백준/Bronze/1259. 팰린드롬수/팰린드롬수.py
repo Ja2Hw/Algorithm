@@ -1,7 +1,7 @@
 import sys
 
 while True:
-    N = str(sys.stdin.readline().rstrip())
+    N = str(sys.stdin.readline().strip())
     wrong = False
     if int(N) == 0:
         break
