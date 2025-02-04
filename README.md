@@ -51,6 +51,7 @@
 |10172. 개|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10172.%E2%80%85%EA%B0%9C/README.md)|
 |10214. Baseball|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10214.%E2%80%85Baseball/Baseball.py)|
 |10250. ACM 호텔|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10250.%E2%80%85ACM%E2%80%85%ED%98%B8%ED%85%94/ACM%E2%80%85%ED%98%B8%ED%85%94.py)|
+|10430. 나머지|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10430.%E2%80%85%EB%82%98%EB%A8%B8%EC%A7%80/%EB%82%98%EB%A8%B8%EC%A7%80.py)|
 |10699. 오늘 날짜|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10699.%E2%80%85%EC%98%A4%EB%8A%98%E2%80%85%EB%82%A0%EC%A7%9C/%EC%98%A4%EB%8A%98%E2%80%85%EB%82%A0%EC%A7%9C.py)|
 |10718. We love kriii|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10718.%E2%80%85We%E2%80%85love%E2%80%85kriii/We%E2%80%85love%E2%80%85kriii.py)|
 |1076. 저항|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1076.%E2%80%85%EC%A0%80%ED%95%AD/%EC%A0%80%ED%95%AD.py)|
