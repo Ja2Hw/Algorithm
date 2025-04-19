@@ -6,7 +6,7 @@
 ### 🚀 Easy
 | 문제번호 | 링크 |
 | ----- | ----- |
-|0125-valid-palindrome|[링크](./LeetCode/Easy/0125-valid-palindrome/README.md)|
+|0125-valid-palindrome|[링크](./LeetCode/Easy/0125-valid-palindrome/0125-valid-palindrome-04-20-2025-02-57-53.py)|
 ### 🚀 goormlevel
 | 문제번호 | 링크 |
 | ----- | ----- |
