@@ -43,11 +43,19 @@ def main():
                 content += "| ----- | ----- |\n"
             directories.append(directory)
 
-        for file in files:
-            if category not in solveds:
-                content += "|{}|[링크]({})|\n".format(category, parse.quote(os.path.join(root, file)))
-                solveds.append(category)
-                print("category : " + category)
+        # goormlevel 디렉토리의 경우, 하위 디렉토리가 없으므로 직접 파일을 탐색
+        if directory == "goormlevel":
+            for file in files:
+                problem_number = os.path.splitext(file)[0]
+                file_path = parse.quote(os.path.join(root, file))
+                content += f"|{problem_number}|[링크]({file_path})|\n"
+                print(f"category : {problem_number}")
+        else:
+            for file in files:
+                if category not in solveds:
+                    content += "|{}|[링크]({})|\n".format(category, parse.quote(os.path.join(root, file)))
+                    solveds.append(category)
+                    print("category : " + category)
 
     with open("README.md", "w") as fd:
         fd.write(content)
