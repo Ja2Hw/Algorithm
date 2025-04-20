@@ -6,7 +6,7 @@
 | ----- | ----- |
 |0125-valid-palindrome|[링크](./LeetCode/Easy/0125-valid-palindrome/0125-valid-palindrome-04-20-2025-02-57-53.py)|
 |0344-reverse-string|[링크](./LeetCode/Easy/0344-reverse-string/README.md)|
-|0819-most-common-word|[링크](./LeetCode/Easy/0819-most-common-word/README.md)|
+|0819-most-common-word|[링크](./LeetCode/Easy/0819-most-common-word/0819-most-common-word-04-20-2025-15-11-10.py)|
 ### 🚀 Medium
 | 문제번호 | 링크 |
 | ----- | ----- |
