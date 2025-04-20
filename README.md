@@ -10,6 +10,7 @@
 ### 🚀 Medium
 | 문제번호 | 링크 |
 | ----- | ----- |
+|0049-group-anagrams|[링크](./LeetCode/Medium/0049-group-anagrams/README.md)|
 |0937-reorder-data-in-log-files|[링크](./LeetCode/Medium/0937-reorder-data-in-log-files/README.md)|
 ## 📚 백준
 ### 🚀 Bronze
