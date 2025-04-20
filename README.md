@@ -6,6 +6,10 @@
 | ----- | ----- |
 |0125-valid-palindrome|[링크](./LeetCode/Easy/0125-valid-palindrome/0125-valid-palindrome-04-20-2025-02-57-53.py)|
 |0344-reverse-string|[링크](./LeetCode/Easy/0344-reverse-string/README.md)|
+### 🚀 Medium
+| 문제번호 | 링크 |
+| ----- | ----- |
+|0937-reorder-data-in-log-files|[링크](./LeetCode/Medium/0937-reorder-data-in-log-files/README.md)|
 ## 📚 백준
 ### 🚀 Bronze
 | 문제번호 | 링크 |
