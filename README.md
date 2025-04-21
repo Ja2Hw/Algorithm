@@ -11,7 +11,7 @@
 | 문제번호 | 링크 |
 | ----- | ----- |
 |0017-letter-combinations-of-a-phone-number|[링크](./LeetCode/Medium/0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number-04-22-2025-00-33-49.py)|
-|0046-permutations|[링크](./LeetCode/Medium/0046-permutations/README.md)|
+|0046-permutations|[링크](./LeetCode/Medium/0046-permutations/0046-permutations-04-22-2025-02-15-38.py)|
 |0049-group-anagrams|[링크](./LeetCode/Medium/0049-group-anagrams/README.md)|
 |0200-number-of-islands|[링크](./LeetCode/Medium/0200-number-of-islands/README.md)|
 |0937-reorder-data-in-log-files|[링크](./LeetCode/Medium/0937-reorder-data-in-log-files/README.md)|
