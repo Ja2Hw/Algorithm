@@ -4,6 +4,7 @@
 ### 🚀 Easy
 | 문제번호 | 링크 |
 | ----- | ----- |
+|0009-palindrome-number|[링크](./LeetCode/Easy/0009-palindrome-number/0009-palindrome-number-05-04-2025-23-38-13.py)|
 |0125-valid-palindrome|[링크](./LeetCode/Easy/0125-valid-palindrome/0125-valid-palindrome-04-20-2025-02-56-20.py)|
 |0344-reverse-string|[링크](./LeetCode/Easy/0344-reverse-string/0344-reverse-string-04-20-2025-03-07-40.py)|
 |0819-most-common-word|[링크](./LeetCode/Easy/0819-most-common-word/0819-most-common-word-04-20-2025-15-05-18.py)|
